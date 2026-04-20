@@ -2,7 +2,7 @@
 
 # Coded
 
-Commerce infrastructure for independent sellers.
+Official GitHub of Coded™ — Build anything. Ship everywhere.
 
 [coded.co](https://coded.co) · [hi@coded.co](mailto:hi@coded.co) · Netherlands
 
@@ -10,8 +10,8 @@ Commerce infrastructure for independent sellers.
 
 ---
 
-We build the storefront, checkout, and fulfilment layer so you can run a real commerce business — without the ops overhead. Design your store, list products, collect payments, and ship worldwide. All from one place.
+We're building the platform that gets your ideas live — storefronts, apps, products. Whatever you're making, Coded handles the rest.
 
 ---
 
-<sub>© Coded B.V. · [coded.co](https://coded.co)</sub>
+<sub>© Coded · [coded.co](https://coded.co)</sub>
